@@ -1,6 +1,6 @@
 # eGangBuilder
 
-[Clique ici pour rejoindre le Discord](https://discord.gg/5dev)
+[Clique ici pour rejoindre le Discord](https://discord.gg/fivemfrance)
 
 [Vidéo présentation](https://youtu.be/szAJ_FDEpgU)
 
